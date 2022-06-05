@@ -1,0 +1,16 @@
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.exe
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.deps.json
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.runtimeconfig.json
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.runtimeconfig.dev.json
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.dll
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\ref\CatchingErrors.dll
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\bin\Debug\net5.0\CatchingErrors.pdb
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.csproj.AssemblyReference.cache
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.AssemblyInfoInputs.cache
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.AssemblyInfo.cs
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.csproj.CoreCompileInputs.cache
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.dll
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\ref\CatchingErrors.dll
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.pdb
+C:\Users\raida\OneDrive\Desktop\task2c#\CatchingErrors\obj\Debug\net5.0\CatchingErrors.genruntimeconfig.cache
