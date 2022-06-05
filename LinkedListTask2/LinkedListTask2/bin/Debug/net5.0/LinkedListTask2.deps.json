@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LinkedListTask2/1.0.0": {
+        "runtime": {
+          "LinkedListTask2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListTask2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

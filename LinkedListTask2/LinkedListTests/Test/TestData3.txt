@@ -1,0 +1,58 @@
+AddLastByDataTest
+5
+AddFirstByDataTest
+6
+AddAfterByDataTest
+2 3
+AddBeforeByDataTest
+3 2
+ClearTest
+1 2 3 4 5 6 7 8 9 10
+ContainsTest
+1 2 3 4 5 6 7 8 9 10
+FindTest
+6 8
+1 2 3 6 6 6 6 8 9
+FindLastTest
+4 6
+1 2 3 4 4 4 4 8 9
+EqualsTest
+false
+1 2 3 4 5 6 7 8 11
+1 2 3 4 5 6 7 8
+RemoveNodeByDataTest
+7
+1 2 3 4 5 6 7 8
+RemoveFirstTest
+10 2 3 4 5 6 7 8
+RemoveLastTest
+1 2 3 4 5 6 7 16
+AnyTest
+3 4 5 
+AnyFuncTest
+4 5 6
+CountTest
+1 2 3 4 5 6 
+ElementAtTest
+3
+1 2 3 4 5
+ElementAtOrDefaultTest
+2
+1 2 3 4 5
+FirstTest
+8 2 3 4 5
+LastTest
+1 2 3 4 7
+LastOrDefaultTest
+1 2 3 4 10
+FirstOrDefaultTest
+11 2 3 4 7
+MaxTest
+10
+1 2 3 4 10
+MinTest
+3
+10 3 30 40 50
+ReverseTest
+0 1 2
+2 1 0
